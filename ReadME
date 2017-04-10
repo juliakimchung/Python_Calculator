@@ -1,1 +1,5 @@
 # Python_Calculator
+1. Import re
+2. Used input()
+3. Created functions to perform Math
+4. Created CLI calculator
